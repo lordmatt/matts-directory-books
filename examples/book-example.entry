@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+    <title>My nice book</title>
+    <author>Matthew D. Brown</author>
+    <isbn>12234567890</isbn>
+    <url href='https://lordmatt.co.uk' rel='book' class='purchase'/>
+    <short>synopsis goes here</short>
+    <thumbnail href='https://lordmatt.co.uk/wp-content/themes/LordMatt7/images/wiki3a.png' rel='cover' alt='cover of book' class='u-photo'/>
+    <meta>
+        <author>Matt</author>
+        <history>
+            <hist id='1' date='01-02-2023'>Created</hist>
+        </history>
+        <keywords>Matt,example,profile</keywords>
+        <class>book</class>
+        <note>A book entry MUST contain a meta-class with the value "book"</note>
+    </meta>
+    <genres>
+        <genre>sci-fi</genre>
+        <note>You can put one or more genre entries here but too many will get your entry rejected.</note>
+    </genres>
+    <socials>
+        <social href='https://mastodon.social/@lordmatt' icon='mastodon'>@lordmatt@mastodon.social</social>
+        <social href='https://www.tumblr.com/blog/matthewdavidbrown' icon='tumblr'>I'm on Tumblr</social>
+        <social href='https://lordmatt.co.uk/' icon='wordpress'>Geek blog</social>
+        <social href='https://matrixdreams.com/' icon='wordpress'>Nerd blog</social>
+        <social href='https://mattsbigfatarse.com/' icon='health'>My health blog</social>
+        <social href='https://lordmatt.co.uk/feed/' icon='rss'>Geek blog feed</social>
+        <social href='https://matrixdreams.com/feed/' icon='rss'>Nerd blog feed</social>
+        <social href='https://github.com/lordmatt' icon='github'>My GitHub profile</social>
+    </socials>
+    <icons>
+        <icon name='webmention'/>
+        <icon name='uses-wordpress'/>
+        <icon name='writer'/>
+        <icon name='user'/>
+        <icon name='tag'/>
+        <icon name='code'/>
+        <icon name='tea'/>
+        <icon name='brain'/>
+        <icon name='wikipedia'/>
+        <icon name='idea'/>
+        <icon name='ad-supported'/>
+        <icon name='spock'/>
+        <icon name='health'/>
+        <icon name='raspberry-pi'/>
+    </icons>
+</item>
