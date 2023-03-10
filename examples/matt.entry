@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+    <title>Matthew D. Brown (aka @lordmatt)</title>
+    <url href='https://lordmatt.co.uk' rel='author' class='homepage'/>
+    <short>A geeky writer from Kent (UK). I blog (far too much) and I develop  
+        with PHP for the fun of it (and professionally). I also think I am funny
+        - puns abound (you have been warned). I made this directory too.</short>
+    <thumbnail href='https://lordmatt.co.uk/wp-content/themes/LordMatt7/images/wiki3a.png' rel='photo' alt='photo of matt' class='u-photo'/>
+    <meta>
+        <author>Matt</author>
+        <note>This is an example of a user profile entry. required are title, short, and url</note>
+        <history>
+            <hist id='1' date='01-02-2023'>Created as a test example</hist>
+            <hist id='2' date='07-02-2023'>Expanded meta added</hist>
+        </history>
+        <note>You can put whatever you want into a meta. Very little is used to generate the entry, though.</note>
+        <keywords>Matt,example,profile</keywords>
+        <note>Socials should be used for social media links but can include links to strongly related relivant content.</note>
+        <note>Icons are optional as Matt will likely edit these himself to fit with the esotric purpose of said icons.</note>
+    </meta>
+    <socials>
+        <social href='https://mastodon.social/@lordmatt' icon='mastodon'>@lordmatt@mastodon.social</social>
+        <social href='https://www.tumblr.com/blog/matthewdavidbrown' icon='tumblr'>I'm on Tumblr</social>
+        <social href='https://lordmatt.co.uk/' icon='wordpress'>Geek blog</social>
+        <social href='https://matrixdreams.com/' icon='wordpress'>Nerd blog</social>
+        <social href='https://mattsbigfatarse.com/' icon='health'>My health blog</social>
+        <social href='https://lordmatt.co.uk/feed/' icon='rss'>Geek blog feed</social>
+        <social href='https://matrixdreams.com/feed/' icon='rss'>Nerd blog feed</social>
+        <social href='https://github.com/lordmatt' icon='github'>My GitHub profile</social>
+    </socials>
+    <icons>
+        <icon name='webmention'/>
+        <icon name='uses-wordpress'/>
+        <icon name='writer'/>
+        <icon name='user'/>
+        <icon name='tag'/>
+        <icon name='code'/>
+        <icon name='tea'/>
+        <icon name='brain'/>
+        <icon name='wikipedia'/>
+        <icon name='idea'/>
+        <icon name='ad-supported'/>
+        <icon name='spock'/>
+        <icon name='health'/>
+        <icon name='raspberry-pi'/>
+    </icons>
+</item>
