@@ -21,9 +21,7 @@ This multistep process should ensure that those submitting entries mean it.
 I might make a tool sometime that helps generate your initial entry file.
 
 ### Is there a list of icon tags?
-No. You can, however, browse existing entries in the directory and view their XML.
-
-I plan, in the future, to create a full list that you can view.
+Yes. [Matt's Directory project icons are here](https://dir.lordmatt.co.uk/page/all-icons "Matt's Directory project icons"). 
 
 ### How long before my entry appears on site?
 It depends. I do not have a merge schedual established yet.
