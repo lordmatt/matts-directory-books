@@ -26,6 +26,13 @@ Yes. [Matt's Directory project icons are here](https://dir.lordmatt.co.uk/page/a
 ### How long before my entry appears on site?
 It depends. I do not have a merge schedual established yet.
 
+### It looks like there are two author tags
+
+Yes. 
+
+- item > author - that's who wrote the book
+- item > meta > author - that's who wrote the file about the book (you)
+
 ### Are there any limits on what my entry file can be called?
 Pleanty.
 
